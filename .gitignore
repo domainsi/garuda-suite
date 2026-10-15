@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Recon reports
+garuda_report_*.json
+
+# OS files
+.DS_Store
+.idea/
+.vscode/
