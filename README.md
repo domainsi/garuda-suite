@@ -12,6 +12,11 @@
 ═══════════════════════════════════════════════════════════════════════════════════════
 ```
 
+<p align="center">
+  <img src="https://github.com/domainsi/garuda-suite/blob/main/Screenshot_20261015-083805.png" />
+</p>
+
+
 # GARUDA SSH - Elite Pentest & Advanced Multi-Path Traceroute Suite
 
 Tool CLI berbasis Python kelas profesional dengan branding **GARUDA SSH Neural Kernel (v55.0.0)** dan tema **Kali Linux** (kombinasi warna Merah-Putih) yang dirancang untuk melakukan penelusuran IP tingkat lanjut, deteksi **Multi-Path Routing / Load Balancing**, *Cloudflare Deep Inspector*, serta rangkaian *Elite Recon & Network Intelligence Suite*.
